@@ -1,0 +1,176 @@
+# Copyright (C) 2015 Good old Share
+# This file is distributed under the same license as the Good old Share package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Good old Share 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/really-simple-facebook-twitter-share-buttons\n"
+"POT-Creation-Date: 2013-01-29 13:19:12+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-04-01 10:27+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.7.5\n"
+"Language: it_IT\n"
+
+#: good-old-share.php:154
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: good-old-share.php:474
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Non hai il permesso di accedere a questa pagina."
+
+#: good-old-share.php:553
+msgid "Settings updated"
+msgstr "Impostazioni salvate"
+
+#: good-old-share.php:615
+msgid "General options"
+msgstr "Opzioni generali"
+
+#: good-old-share.php:618
+msgid "Share buttons"
+msgstr "Pulsanti di condivisione"
+
+#: good-old-share.php:619
+msgid "Check to activate, Drag&Drop to sort, Adjust width in pixels"
+msgstr "Attiva col check, ordina col Drag&Drop, Modifica larghezza in pixel"
+
+#: good-old-share.php:630 good-old-share.php:635
+msgid "Button text"
+msgstr "Testo del pulsante"
+
+#: good-old-share.php:642 good-old-share.php:660
+msgid "(mandatory)"
+msgstr "(obbligatorio)"
+
+#: good-old-share.php:670
+msgid "Activate button"
+msgstr "Attiva il pulsante"
+
+#: good-old-share.php:688
+msgid "Show buttons in these pages"
+msgstr "Mostra i pulsanti in queste pagine"
+
+#: good-old-share.php:699
+msgid "Position"
+msgstr "Posizione"
+
+#: good-old-share.php:701
+msgid "only above the post"
+msgstr "solo sopra l'articolo"
+
+#: good-old-share.php:702
+msgid "only below the post"
+msgstr "solo sotto l'articolo"
+
+#: good-old-share.php:703
+msgid "above and below the post"
+msgstr "sopra e sotto l'articolo"
+
+#: good-old-share.php:706
+msgid "Layout"
+msgstr "Forma"
+
+#: good-old-share.php:708
+msgid "button"
+msgstr "pulsante"
+
+#: good-old-share.php:709
+msgid "box"
+msgstr "box"
+
+#: good-old-share.php:712
+msgid "Language"
+msgstr "Lingua"
+
+#: good-old-share.php:823
+msgid "Please note that not all languages are available for every button. If the WPML plugin is active, language is set automatically"
+msgstr "Nota: non tutte le lingue sono disponibili per ogni pulsante. Se il plugin WPML è attivo, la lingua è impostata automaticamente"
+
+#: good-old-share.php:825
+msgid "Prepend text on the above line"
+msgstr "Inserisci questo testo nella riga precedente"
+
+#: good-old-share.php:827
+msgid "Optional text shown above the buttons, e.g. 'If you liked this post, say thanks by sharing it:'"
+msgstr "Testo opzionale"
+
+#: good-old-share.php:829
+msgid "Prepend text inline"
+msgstr "Inserisci questo testo subito prima dei pulsanti"
+
+#: good-old-share.php:831
+msgid "Optional text shown inline before the buttons, e.g. 'Share this:'"
+msgstr "Testo opzionale mostrato in riga subito prima del pulsante, es. 'Condividimi:'"
+
+#: good-old-share.php:840
+msgid "Checking it should increase the page loading speed. Warning: this requires the theme to have the wp_footer() hook in the appropriate place; if unsure, leave it unchecked"
+msgstr "Puoi abilitarlo per aumentare la velocità di caricamento delle pagine. Attenzione: richiede che il tema utilizzi l'hook wp_footer() al posto giusto; se non sei sicuro, non abilitare questa opzione"
+
+#: good-old-share.php:847
+msgid "Try changing this if the buttons show bad in some pages or areas"
+msgstr "Prova a utilizzarlo se il pulsante viene visualizzato male in alcune pagine o zone"
+
+#: good-old-share.php:851
+msgid "Warning: changing the link format may reset the button counters; if unsure, leave it unchecked"
+msgstr "Attenzione: cambiare il formato dei link può resettare i contatori dei pulsanti; se non sei sicuro, non abilitare questa opzione"
+
+#: good-old-share.php:859
+msgid "like"
+msgstr "mi piace"
+
+#: good-old-share.php:860
+msgid "recommend"
+msgstr "consiglia"
+
+#: good-old-share.php:871
+msgid "This optional text is added next to the email button, e.g. 'forward to a friend'"
+msgstr "Questo testo opzionale è aggiunto accanto al pulsante Email, es. 'invia a un amico'"
+
+#: good-old-share.php:878
+msgid "Warning: uses additional JS code, doesn't work in any environment"
+msgstr "Attenzione: utilizza codice JS aggiuntivo, può non funzionare in alcune situazioni"
+
+#: good-old-share.php:882
+msgid "Warning: only works if the \"Use multiple image selector\" option is disabled"
+msgstr "Attenzione: funziona solo se l'opzione \"Usa selettore immagine multiplo\" è abilitata"
+
+#: good-old-share.php:890
+msgid ""
+"Optional text added at the end of every tweet, e.g. ' (via @authorofblogentry)'.\r\n"
+"\t\t\t\t\tIf you use it, insert an initial space or puntuation mark"
+msgstr ""
+"Testo opzionale aggiunto alla fine di ogni tweet, es. '(via @autoredelpost)'.\r\n"
+"\t\t\t\t\tSe lo usi, inserisci uno spazio iniziale o un segno di punteggiatura"
+
+#: good-old-share.php:895
+msgid "If checked, the (wordpress) nickname of the author of the post is always added to the follow list."
+msgstr "Se abilitato, il (wordpress) nickname dell'autore dell'articolo è sempre aggiunto alla follow list."
+
+#: good-old-share.php:899
+msgid "Optional related Twitter usernames (comma separated) added to the follow list"
+msgstr "Utenti Twitter opzionali (separati da virgola) aggiunti alla follow list"
+
+#: good-old-share.php:903
+msgid "Optional Twitter username attributed as the tweet author"
+msgstr "Utente Twitter opzionale da collegare come autore del tweet"
+
+#. Plugin Name of the plugin/theme
+msgid "Good old Share"
+msgstr "Good old Share "
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.whiletrue.it"
+msgstr "http://www.whiletrue.it"
+
+#. Description of the plugin/theme
+msgid "Puts Facebook, Twitter, LinkedIn, Google \"+1\", Pinterest and other share buttons of your choice above or below your posts."
+msgstr "Inserisce i pulsanti di condivisione di Facebook, Twitter, LinkedIn, Google \"+1\", Pinterest e altri a tua scelta, sopra o sotto il testo dei tuoi articoli."
+
+#. Author of the plugin/theme
+msgid "WhileTrue"
+msgstr "WhileTrue"
