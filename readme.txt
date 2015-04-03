@@ -51,13 +51,15 @@ To do so e.g. on a page: open the WordPress backend, go to Pages, click on the P
 
 This plugin gives you the features of the former 3.3 release of the "Really simple Share" plugin.
 
-For more info on this plugin: [www.whiletrue.it](http://www.whiletrue.it/really-simple-share-wordpress-plugin/ "www.whiletrue.it")
+For more info: [www.whiletrue.it](http://www.whiletrue.it/really-simple-share-wordpress-plugin/ "www.whiletrue.it")
 
 Do you like this plugin? Give a chance to our other works:
 
 * [Most and Least Read Posts](http://www.whiletrue.it/most-and-least-read-posts-widget-for-wordpress/ "Most and Least Read Posts")
 * [Tilted Tag Cloud Widget](http://www.whiletrue.it/tilted-tag-cloud-widget-per-wordpress/ "Tilted Tag Cloud Widget")
 * [Reading Time](http://www.whiletrue.it/reading-time-for-wordpress/ "Reading Time")
+
+Also, take a look at [the current version of Really simple Share](https://wordpress.org/plugins/really-simple-facebook-twitter-share-buttons/ "Really simple Share")
 
 == Installation ==
 Best is to install directly from WordPress. If manual installation is required, please make sure to put all of the plugin files in a folder named `good-old-share` (not two nested folders) in the plugin directory, then activate the plugin through the `Plugins` menu in WordPress.
